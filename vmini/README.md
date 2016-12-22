@@ -8,7 +8,6 @@
 - [ ] Computed  
 - [ ] Directive  
 - [ ] Event  
-- [ ] ~Vdom~
 
 ### Update
-Vue2(Vdom)部分读不懂 改为学习Vue1.0🌚
+~~Vdom~~ : Vue2(Vdom与Directive结合紧密 jsx和template成迷)读不懂 改为学习Vue1.0🌚
